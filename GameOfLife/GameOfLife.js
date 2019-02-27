@@ -91,3 +91,5 @@ function reset(){
     }
   }
 }
+
+console.log("GameofLife");
